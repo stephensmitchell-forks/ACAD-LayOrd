@@ -31,7 +31,7 @@ An acad.lsp is included in the package for convenience for new users.
 The AutoCAD command to run is ```layord```.
 This will bring up the dialog.
 
-The interface itself is self explanatory. You have your non-XRef layers on the right to choose from and can shift them to the right hand side for re-ordering with the arrow.
+The interface itself is self explanatory. You have your non-XRef layers on the left to choose from and can shift them to the right hand side for re-ordering with the arrow.
 
 The arrows on the right hand side re-order the layers in the list, and the move button at the bottom initiate the re-ordering.
 
